@@ -1,0 +1,3 @@
+DuouyhiCo1t5Ef4oI%2BmAVL6WP7FhOi3K3pylATaFB%2BvCqEk3HSKdu2ks2fQQ2Up80HwNAeEO4OmqmZ7PVYPwnw%3D%3D
+temp,rain,wspd,rhum,dewp,srad,wdir,vpre,lpre,spre,sshr,sdep,visi,stem
+108,2021,1,1,0,2021,1,31,23

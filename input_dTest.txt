@@ -1,0 +1,4 @@
+DuouyhiCo1t5Ef4oI+mAVL6WP7FhOi3K3pylATaFB+vCqEk3HSKdu2ks2fQQ2Up80HwNAeEO4OmqmZ7PVYPwnw==
+tavg,tmin,tmax,rain,avgWspd,avgDewp,avgRhum,avgVpre,avgLpre,avgSpre,sdur,sshr,srad,sdep,stem,leva,seva
+108,2021,1,1,2021,12,31
+0,0
